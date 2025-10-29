@@ -1,4 +1,6 @@
-# Sorata
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/240801420?s=200&v=4" alt="Sorata" width="200">
+</p>
 
 > “Payments, redefined — simple, fast, and fully decentralized.”
 
